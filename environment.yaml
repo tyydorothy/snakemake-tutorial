@@ -1,0 +1,6 @@
+name: snakemake-tut
+channels:
+  - conda-forge
+dependencies:
+  - snakemake
+prefix: /opt/homebrew/Caskroom/miniforge/base/envs/snakemake-tut
